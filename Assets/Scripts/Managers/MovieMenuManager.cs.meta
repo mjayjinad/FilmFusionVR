@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: d8ba6d5a020f5624fa7984241cf71963
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - title: {instanceID: 0}
+  - description: {instanceID: 0}
+  - tagline: {instanceID: 0}
+  - detailsTxt: {instanceID: 0}
+  - rating: {instanceID: 0}
+  - revenue: {instanceID: 0}
+  - budget: {instanceID: 0}
+  - status: {instanceID: 0}
+  - traillerBtn: {instanceID: 0}
+  - closeBtn: {instanceID: 0}
+  - ratingProgress: {instanceID: 0}
+  - poster: {instanceID: 0}
+  - backdrop: {instanceID: 0}
+  - placeholder: {instanceID: 0}
+  - movieCastParent: {instanceID: 0}
+  - videoParent: {instanceID: 0}
+  - loadingRectComponent: {instanceID: 0}
+  - loadingPage: {instanceID: 0}
+  - moviePageUI: {instanceID: 0}
+  - castUIPrefab: {instanceID: 0}
+  - videoUIPrefab: {instanceID: 0}
+  - trailerVideoUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

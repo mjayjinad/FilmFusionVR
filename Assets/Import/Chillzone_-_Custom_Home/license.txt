@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chillzone - Custom Home
+* source:	https://sketchfab.com/3d-models/chillzone-custom-home-9467bacb4dab48c4b908805846346784
+* author:	SideQuest (https://sketchfab.com/sidequest)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chillzone - Custom Home" (https://sketchfab.com/3d-models/chillzone-custom-home-9467bacb4dab48c4b908805846346784) by SideQuest (https://sketchfab.com/sidequest) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
