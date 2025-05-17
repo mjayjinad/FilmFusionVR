@@ -1,4 +1,4 @@
-# VR Movie Explorer
+# Film Fusion VR
 VR Movie Explorer is a unique virtual reality application that reimagines how you discover and explore movies. Instead of traditional streaming, this immersive platform lets you browse curated movie categories and dive deep into detailed movie insights all within a captivating VR environment.
 
 # Key Features
